@@ -1,0 +1,85 @@
+
+
+.nav{
+    display: inline-flex;
+    float: right;
+    padding: 20px;
+    margin-top: -80px;
+
+}
+.First{
+    display: flex;
+    justify-content: space-between;
+}
+.General{
+    background:  linear-gradient(105deg, white 65%, gold 25%);
+}
+.Deliver{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 100px;
+}
+.Fast{
+    text-align: center;
+    padding: 20px 20px;
+    margin: 3px;
+    box-shadow: 0 0 5px 0px rgba(0 ,0, 0, 0.1);
+    border: solid black;
+}
+.Delivery{
+    text-align: center;
+    border: solid black;
+    box-shadow: 0 0 5px 0px rgba(0 ,0, 0, 0.1);
+    padding: 50px 50px;
+    margin: 5px;
+}
+.Menu{
+    text-align: center;
+    justify-content: center;
+    margin-left: 500px;
+}
+.DOUBLE-BURGER{
+    flex-wrap: wrap;
+    display: flex;
+    text-align: center;
+}
+.column1{
+    text-align: center;
+    padding: 30px 30px;
+    box-shadow: 0 0 5px 0px rgba(0 ,0, 0, 0.1);
+    border: solid black; 
+    margin: 20px;
+}
+.column-one{
+    display: flex;
+    justify-content: space-between;
+    margin: 20px;
+    padding: 40px 40px;
+    text-align: center;
+    margin-left: 100px;
+}
+.column2{
+    text-align: center;
+    padding: 30px 30px;
+    box-shadow: 0 0 5px 0px rgba(0 ,0, 0, 0.1);
+    border: solid black; 
+    margin: 20px;
+}
+.column-two{
+    display: flex;
+    justify-content: space-between;
+    margin: 20px;
+    padding: 40px 40px;
+    text-align: center;
+    margin-left: 100px;
+}
+.Double{
+    display: flex;
+    justify-content: space-between;
+    height: 80vh;
+    background-color: lightsteelblue;
+}
+/* .Discover{ */
+    /* background-image: url(images/9.jpeg); */
+    /* height: 120vh; */
+/* } */
