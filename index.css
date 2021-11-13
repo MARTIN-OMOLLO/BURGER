@@ -4,7 +4,7 @@
     display: inline-flex;
     float: right;
     padding: 20px;
-    margin-top: -81px;
+    margin-top: -80px;
 
 }
 .First{
@@ -12,7 +12,7 @@
     justify-content: space-between;
 }
 .General{
-    background:  linear-gradient(105deg, white 65%, gold 25%);
+    background:  linear-gradient(105deg, white 64%, gold 26%);
 }
 .Deliver{
     display: flex;
