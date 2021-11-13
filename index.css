@@ -9,7 +9,7 @@
 }
 .First{
     display: flex;
-    justify-content: space-between;
+    justify-content: space-betwee;
 }
 .General{
     background:  linear-gradient(105deg, white 64%, gold 26%);
