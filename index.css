@@ -68,13 +68,13 @@
 .column-two{
     display: flex;
     justify-content: space-between;
-    margin: 20px;
+    margin: 21px;
     padding: 40px 40px;
     text-align: center;
     margin-left: 100px;
 }
 .Double{
-    display: fle;
+    display: flex;
     justify-content: space-between;
     height: 80vh;
     background-color: lightsteelblue;
