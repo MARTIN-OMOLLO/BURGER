@@ -9,7 +9,7 @@
 }
 .First{
     display: flex;
-    justify-content: space-betwee;
+    justify-content: space-between;
 }
 .General{
     background:  linear-gradient(105deg, white 64%, gold 26%);
@@ -17,7 +17,7 @@
 .Deliver{
     display: flex;
     justify-content: space-around;
-    margin-top: 100px;
+    margin-top: 101px;
 }
 .Fast{
     text-align: center;
